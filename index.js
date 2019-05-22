@@ -1,1 +1,1 @@
-TweenMax.to('.image', 8, {down: 6000, rotation: 3600, scale: .2})
+TweenMax.staggerFrom('.image', 8, {down: 6000, rotation: 3600, scale: .2})
