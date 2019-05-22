@@ -1,0 +1,1 @@
+TweenMax.to('.image', 8, {down: 6000, rotation: 3600, scale: .2})
